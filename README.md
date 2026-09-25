@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 First Year Computer Engineering Student at VIT Pune
+- 🎓 Second Year Computer Engineering Student at VIT Pune
 - 🌱 Currently learning Data Structures & Algorithms in C++
 - 💻 Exploring Competitive Programming and Web Development
 - 🎨 Building 10+ mini projects using HTML and CSS
